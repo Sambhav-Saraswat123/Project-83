@@ -1,0 +1,10 @@
+canvas {
+  background: white;
+  border-radius: 40px;
+}
+
+body {
+  background: -webkit-gradient(linear, right top, left top, from(#0aa5ff), to(#0affa5));
+  background: linear-gradient(right, #0aa5ff, #0affa5);
+}
+/*# sourceMappingURL=style.css.map */
